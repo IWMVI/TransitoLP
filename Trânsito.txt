@@ -1,0 +1,40 @@
+São Paulo
+1
+499
+
+Rio de Janeiro
+2
+315
+
+Gramado
+3
+155
+
+Ubatuba
+4
+55
+
+Porto Seguro
+5
+364
+
+Florianópolis
+6
+465
+
+Fortaleza
+7
+398
+
+Natal
+8
+465
+
+Porto de Galinhas
+9
+465
+
+Campos do Jordão
+10
+487
+
